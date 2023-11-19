@@ -1,9 +1,8 @@
-ICS 32 Assignment 5
+Messaging File Sorting User Interface System
 Helen Chau
-84334175
-chauh4@uci.edu
+helenkachau@gmail.com
 
-The purpose of my program for assignment 5 is to allow the user to use a GUI to send messages to any valid user they choose! They must first load a valid dsu file or they can create one before continuing to the GUI messenger. The user must click a recipient before messaging, typing in the chat box without clicking a recipient will not allow the user to send a message since there is no user to send it to. The program also automatically saves all retrieved chats and contacts so the user can just load the profile file they used into the program and see their previous chats. The user can also create a new profile file in the file settings menu but they would have to close the program to log in to another file.
+The purpose of my program is to allow the user to use a GUI to send messages to any valid user they choose! They must first load a valid dsu file or they can create one before continuing to the GUI messenger. The user must click a recipient before messaging, typing in the chat box without clicking a recipient will not allow the user to send a message since there is no user to send it to. The program also automatically saves all retrieved chats and contacts so the user can just load the profile file they used into the program and see their previous chats. The user can also create a new profile file in the file settings menu but they would have to close the program to log in to another file.
 
 I used tkinkter in my program to make the GUI and created a window pop-up that is raised first above the chat GUI which collects the user file. If the user does not choose any file, then the window pop-up remains, and the user cannot continue to the GUI without loading or creating a file. All usernames also must be unique from other users!
 
